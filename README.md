@@ -30,11 +30,11 @@ terraform apply -auto-approve
 
 ##
 <img align="center" src="Lambda-function.png">
-##
+
 ```
 terraform destroy -auto-approve
 ```
-##
+
 <img align="center" src="terraform-destroyed.png">
 
 ##
