@@ -2,6 +2,9 @@
 
 - Deregister AWS AMI
 
+##
+<img align="center" src="ami-details.png">
+
 <details><summary># Terraform will perform the following actions:</summary>
 <p>
 
